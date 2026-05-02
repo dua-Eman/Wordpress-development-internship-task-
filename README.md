@@ -1,261 +1,182 @@
-WordPress Internship Task 1 Report
-Hasnain Karimain Educational Academy
-Software House & Training Center
-Registered with SECP & PSEB (Ministry of IT, Government of Pakistan)
-Intern Name: Dua Eman
-Program: WordPress Developer Internship
-Task No: 1
-Task Title: Install and Set Up a WordPress Website Locally
-Shift: 2nd
-Assigned Days: Thursday to Saturday
+# WordPress Internship Task 1 Report
 
-📌 Objective
+## Hasnain Karimain Educational Academy  
+Software House & Training Center  
+Registered with SECP & PSEB (Ministry of IT, Government of Pakistan)
+
+**Intern Name:** Dua Eman  
+**Program:** WordPress Developer Internship  
+**Task No:** 1  
+**Task Title:** Install and Set Up a WordPress Website Locally  
+**Shift:** 2nd  
+**Assigned Days:** Thursday to Saturday  
+
+---
+
+## Objective
 To learn how to install WordPress on a local server environment, configure it properly, install themes/plugins, and create a complete basic website.
 
-🛠 Tools Used
+---
+
+## Tools Used
+
+- XAMPP (Local Server)
+- WordPress Latest Version
+- MySQL Database (phpMyAdmin)
+- Astra Theme
+
+### Plugins Installed
+
+- Elementor
+- WPForms Lite
+- SureRank SEO
+- SureMail SMTP
+- LatePoint
+- UpdraftPlus Backup
+- Click to Chat
+- WP Reset
+
+---
+
+## Steps Followed
+
+### 1. Installed Local Server
+
+- Installed XAMPP
+- Started Apache and MySQL
+
+### 2. Installed WordPress
+
+- Downloaded latest WordPress version
+- Extracted files into `htdocs/Portfolio`
+- Opened browser and visited:
 
 
-XAMPP – Local Server Environment
-
-
-WordPress (Latest Version)
-
-
-MySQL Database (phpMyAdmin)
-
-
-Theme Used: Astra
-
-
-Plugins Installed:
-
-
-Elementor
-
-
-WPForms Lite
-
-
-SureRank SEO
-
-
-SureMail SMTP
-
-
-LatePoint
-
-
-UpdraftPlus Backup
-
-
-Click to Chat
-
-
-WP Reset
-
-
-
-
-
-📋 Steps Followed
-1️⃣ Installed Local Server
-
-
-Installed XAMPP on the computer.
-
-
-Started Apache and MySQL services.
-
-
-2️⃣ Installed WordPress
-
-
-Downloaded latest WordPress version.
-
-
-Extracted files into htdocs/Portfolio folder.
-
-
-Opened browser and visited:
 localhost/Portfolio
 
+## 3. Created Database
 
-3️⃣ Created Database
+- Opened phpMyAdmin  
+- Created a new MySQL database  
+- Connected database during WordPress installation  
 
+---
 
-Opened phpMyAdmin
+## 4. Initial Configuration
 
+Configured:
 
-Created new database for WordPress website.
+- **Site Title:** Evolve Daily  
+- **Admin Username:** admin  
+- **Password:** Secure Password  
+- **Email:** Admin Email  
 
+- Logged in successfully to WordPress Dashboard.  
 
-Connected database during installation.
+---
 
+## Theme Setup
 
-4️⃣ Initial Setup
-Configured the following:
+- Installed and activated Astra Theme  
+- Customized:  
+  - Colors  
+  - Header  
+  - Footer  
+  - Layout  
 
+---
 
-Site Title: Evolve Daily
+## Pages Created
 
+- Home  
+- About  
+- Projects / Portfolio  
+- Services  
+- Contact  
 
-Admin Username: admin
+---
 
+## Navigation Menu
 
-Password: Secure Password
+Created header menu with:
 
+- Home  
+- About  
+- Projects  
+- Services  
+- Contact  
 
-Email: Admin Email
+---
 
+## Plugins Summary
 
-Logged into WordPress Dashboard successfully.
+| Plugin Name | Purpose |
+|------------|---------|
+| Elementor | Page Builder |
+| WPForms Lite | Contact Form |
+| SureRank SEO | SEO |
+| SureMail SMTP | Email Sending |
+| UpdraftPlus | Backup |
+| Click to Chat | WhatsApp Chat |
+| LatePoint | Booking |
+| WP Reset | Reset Site |
 
-🎨 Theme Setup
+---
 
+## Final Website Sections
 
-Installed and activated Astra Theme.
+- Hero Section  
+- Why Work With Me  
+- Creative Workflow  
+- Services Section  
+- About Me  
+- Statistics Counter  
+- Testimonials  
+- Contact Section  
+- Footer Menu  
 
+---
 
-Customized:
+## Deliverables Completed
 
+- WordPress Dashboard Screenshot  
+- Installed Plugins Screenshot  
+- Final Website Screenshot  
+- Menu Setup Completed  
+- Localhost Website Running  
 
-Website colors
+---
 
+## Bonus Work
 
-Header navigation menu
+- Custom Portfolio Design  
+- Elementor Layout Styling  
+- Modern Responsive Design  
+- Testimonials Added  
+- Stats Counter Added  
 
+---
 
-Footer section
+## Learning Outcomes
 
+- Installed WordPress Locally  
+- Created MySQL Database  
+- Installed Themes & Plugins  
+- Built Website Pages  
+- Created Navigation Menu  
+- Used Elementor Builder  
+- Managed WordPress Dashboard  
 
-Layout styling
+---
 
+## Conclusion
 
+Task 1 was completed successfully. WordPress was installed locally using XAMPP, configured properly, plugins were installed, theme was customized, and a complete portfolio website was developed.
 
+---
 
+## Submitted By
 
-📄 Pages Created
-The following pages were created:
-
-
-Home
-
-
-About
-
-
-Projects / Portfolio
-
-
-Services
-
-
-Contact
-
-
-
-📌 Navigation Menu Created
-Added all pages into the main menu:
-
-
-Home
-
-
-About
-
-
-Projects
-
-
-Services
-
-
-Contact
-
-
-
-🔌 Plugins Installed
-Installed and activated useful plugins for website functionality:
-Plugin NamePurposeElementorPage BuilderWPForms LiteContact FormsSureRank SEOSEO OptimizationSureMail SMTPEmail DeliveryUpdraftPlusBackupClick to ChatWhatsApp ChatLatePointBooking SystemWP ResetReset Website
-
-🌐 Final Website Design
-Created a professional Portfolio Website with sections:
-
-
-Hero Banner
-
-
-Why Work With Me
-
-
-Creative Workflow
-
-
-Services Cards
-
-
-About Section
-
-
-Statistics Counter
-
-
-Testimonials
-
-
-Contact Section
-
-
-Footer Navigation
-
-
-
-📷 Deliverables Completed
-✅ WordPress Dashboard Screenshot
-✅ Installed Plugins Screenshot
-✅ Final Website Frontend Screenshot
-✅ Menu Setup Completed
-✅ Localhost Working Successfully
-
-💡 Bonus Work Completed
-✅ Designed custom portfolio layout
-✅ Used Elementor for styling
-✅ Added animated modern sections
-✅ Added testimonials and stats section
-
-🎯 Learning Outcomes
-Through this task, I learned:
-
-
-How to install WordPress locally
-
-
-How to create databases
-
-
-Theme installation & customization
-
-
-Plugin management
-
-
-Page creation
-
-
-Menu setup
-
-
-Website design using Elementor
-
-
-WordPress dashboard management
-
-
-
-📌 Conclusion
-Task 1 was completed successfully. WordPress was installed locally using XAMPP, configured correctly, plugins were added, theme customized, and a complete responsive portfolio website was developed.
-
-Submitted By:
-Dua Eman
-WordPress Developer Intern
+**Dua Eman**  
+WordPress Developer Intern  
 Hasnain Karimain Educational Academy
